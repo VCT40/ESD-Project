@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ralph\\Desktop\\School\\ESD\\!project\\Ralph_Project\\Ralph_Project\\wwwroot\\Bookings.html",
+      "PackagePath": "staticwebassets\\Bookings.html"
+    },
+    {
+      "Id": "C:\\Users\\ralph\\Desktop\\School\\ESD\\!project\\Ralph_Project\\Ralph_Project\\wwwroot\\Bookings.js",
+      "PackagePath": "staticwebassets\\Bookings.js"
+    },
+    {
+      "Id": "C:\\Users\\ralph\\Desktop\\School\\ESD\\!project\\Ralph_Project\\Ralph_Project\\wwwroot\\CreateBooking.html",
+      "PackagePath": "staticwebassets\\CreateBooking.html"
+    },
+    {
+      "Id": "C:\\Users\\ralph\\Desktop\\School\\ESD\\!project\\Ralph_Project\\Ralph_Project\\wwwroot\\CreateBooking.js",
+      "PackagePath": "staticwebassets\\CreateBooking.js"
+    },
+    {
+      "Id": "C:\\Users\\ralph\\Desktop\\School\\ESD\\!project\\Ralph_Project\\Ralph_Project\\wwwroot\\EditBooking.html",
+      "PackagePath": "staticwebassets\\EditBooking.html"
+    },
+    {
+      "Id": "C:\\Users\\ralph\\Desktop\\School\\ESD\\!project\\Ralph_Project\\Ralph_Project\\wwwroot\\EditBooking.js",
+      "PackagePath": "staticwebassets\\EditBooking.js"
+    },
+    {
+      "Id": "C:\\Users\\ralph\\Desktop\\School\\ESD\\!project\\Ralph_Project\\Ralph_Project\\wwwroot\\Login.html",
+      "PackagePath": "staticwebassets\\Login.html"
+    },
+    {
+      "Id": "C:\\Users\\ralph\\Desktop\\School\\ESD\\!project\\Ralph_Project\\Ralph_Project\\wwwroot\\TransferBooking.html",
+      "PackagePath": "staticwebassets\\TransferBooking.html"
+    },
+    {
+      "Id": "C:\\Users\\ralph\\Desktop\\School\\ESD\\!project\\Ralph_Project\\Ralph_Project\\wwwroot\\TransferBooking.js",
+      "PackagePath": "staticwebassets\\TransferBooking.js"
+    },
+    {
+      "Id": "C:\\Users\\ralph\\Desktop\\School\\ESD\\!project\\Ralph_Project\\Ralph_Project\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\ralph\\Desktop\\School\\ESD\\!project\\Ralph_Project\\Ralph_Project\\wwwroot\\index.js",
+      "PackagePath": "staticwebassets\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\ralph\\Desktop\\School\\ESD\\!project\\Ralph_Project\\Ralph_Project\\wwwroot\\login.js",
+      "PackagePath": "staticwebassets\\login.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Ralph_Project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Ralph_Project.props",
+      "PackagePath": "build\\Ralph_Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Ralph_Project.props",
+      "PackagePath": "buildMultiTargeting\\Ralph_Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Ralph_Project.props",
+      "PackagePath": "buildTransitive\\Ralph_Project.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
